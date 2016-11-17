@@ -2,4 +2,3 @@ language: objective-c
 osx_image: xcode8
 script:
   - xcodebuild -project "It Just Works Status".xcodeproj -scheme "It Just Works Status" -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
-  - xcodebuild test -project "It Just Works Status".xcodeproj -scheme "It Just Works Status" -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
