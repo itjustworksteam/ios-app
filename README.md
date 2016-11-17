@@ -1,5 +1,7 @@
 # iOS APP #
 
+[![Build Status](https://travis-ci.org/itjustworksteam/ios-app.svg?branch=master)](https://travis-ci.org/itjustworksteam/ios-app)
+
 In this repository you find an ios app that you can use to display a web page from a server. For example the web page of your company and so on...
 
 ## What you have to modify ##
